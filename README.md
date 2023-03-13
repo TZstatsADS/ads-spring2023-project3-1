@@ -7,11 +7,12 @@ Term: Spring 2023
 
 + Team ##
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ 1. Hu, Liang lh3057@columbia.edu
+	+ 2. Pan, Xinming xp2203@columbia.edu
+	+3. Qi, Yi Xuan yq2339@columbia.edu
+	+4. Tao, Ranran rt2796@columbia.edu
+	+5. Xia, Weijie wx2281@columbia.edu
+	+6. Zhou, Sicheng sz3094@columbia.edu
 
 + Project summary: In this project, we created ...
 	
